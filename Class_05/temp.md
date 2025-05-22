@@ -3,7 +3,7 @@
 ## Definition
 A **central force** is a force that:
 - Acts on a particle along the line joining the particle to a fixed point (the center).
-- Depends only on the distance \( r \) from the center, i.e., \( \vec{F} = F(r) \hat{r} \), where \( \hat{r} \) is the radial unit vector.
+- Depends only on the distance $\( r \)$ from the center, i.e., \( \vec{F} = F(r) \hat{r} \), where \( \hat{r} \) is the radial unit vector.
 
 Examples:
 - Gravitational force: \( F(r) = -\frac{G M m}{r^2} \)
