@@ -4,4 +4,12 @@ This will be mostly problem based approch to the subject.
 
 আমি কি সংস্কৃততে লিখতে পারি -- 
 ## शास्त्रीय यान्त्रिकता
+
+
 <img width="287" alt="Screen Shot 2020-04-08 at 3 57 18 pm" src="https://user-images.githubusercontent.com/1612112/78749619-f2ecd100-79b1-11ea-9a68-2b9812a5cb8f.png">
+
+
+## உலகம் யாவையும் தாமுளவாக்கலும், 
+ நிலை பெறுத்தலும், நீக்கலும், நீங்கலா, 
+ அலகிலா விளையாட்டுடையார், அவர் தலைவர்!
+ அன்னவர்க்கே சரண் நாங்களே"
